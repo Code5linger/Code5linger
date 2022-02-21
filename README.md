@@ -34,6 +34,6 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
 
 ![](https://komarev.com/ghpvc/?username=Code5linger&label=PROFILE+VIEWS&color=grey&style=flat-square)
 
-[![wakatime](https://stats.Code5linger.me/wakatime?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&count=13&titleColor=f2f2f2)](https://wakatime.com/@3154546a-fb8d-4b9a-b21a-11b49996180b)
+[![wakatime](https://stats.Code5linger.com/wakatime?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&count=13&titleColor=f2f2f2)](https://wakatime.com/@3154546a-fb8d-4b9a-b21a-11b49996180b)
 
  </details>
