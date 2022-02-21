@@ -30,10 +30,10 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code5linger&count_private=true&show_icons=true&theme=codeSTACKr&layout=compact)](https://github.com/Code5linger/github-readme-stats)
 
 <details>
-  <summary>Some Cool Stats🧾</summary>
+  <summary>Some Cool Stats 🔻</summary>
 
 ![](https://komarev.com/ghpvc/?username=Code5linger&label=PROFILE+VIEWS&color=grey&style=flat-square)
 
-[![wakatime](https://stats.caspertheghost.me/wakatime?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&count=13&titleColor=f2f2f2)](https://wakatime.com/@07faab80-c2a8-4d09-98fa-e98e73ce4034)
+[![wakatime](https://stats.Code5linger.me/wakatime?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&count=13&titleColor=f2f2f2)](https://wakatime.com/@07faab80-c2a8-4d09-98fa-e98e73ce4034)
 
  </details>
