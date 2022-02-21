@@ -29,16 +29,11 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code5linger&count_private=true&show_icons=true&theme=codeSTACKr&layout=compact)](https://github.com/Code5linger/github-readme-stats)
 
-
 <details>
   <summary>Some Cool Stats🧾</summary>
 
 ![](https://komarev.com/ghpvc/?username=Code5linger&label=PROFILE+VIEWS&color=grey&style=flat-square)
 
-[![stats](https://stats.caspertheghost.me/stats?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&v=2)](https://stats.caspertheghost.me/stats)
-
-[![langs](https://stats.caspertheghost.me/top-langs?theme=dark&bgColor=00000000&titleColor=ffffff&textColor=ffffff&borderColor=e4e2e2&hide=lua&v=2)](https://stats.caspertheghost.me/top-langs)
-
-[![wakatime](https://stats.caspertheghost.me/wakatime?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&count=13&titleColor=f2f2f2)](https://wakatime.com/@eab8442b-396c-4b76-898b-19820eeed70e)
+[![wakatime](https://stats.caspertheghost.me/wakatime?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&count=13&titleColor=f2f2f2)](https://wakatime.com/@07faab80-c2a8-4d09-98fa-e98e73ce4034)
 
  </details>
