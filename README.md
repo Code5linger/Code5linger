@@ -23,11 +23,10 @@
 
 _This is not a full list of my skills. I'm also open to learn more frontend skills!_
 
-([![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac))
+[![wakatime](https://wakatime.com/badge/user/3154546a-fb8d-4b9a-b21a-11b49996180b.svg)](https://wakatime.com/@3154546a-fb8d-4b9a-b21a-11b49996180b)
 
 <details>
   <summary>stats</summary>
-
 
 ![](https://komarev.com/ghpvc/?username=dev-caspertheghost&label=PROFILE+VIEWS)
 
