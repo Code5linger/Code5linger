@@ -25,10 +25,11 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
 
 [![wakatime](https://wakatime.com/badge/user/3154546a-fb8d-4b9a-b21a-11b49996180b.svg)](https://wakatime.com/@3154546a-fb8d-4b9a-b21a-11b49996180b)
 
-<details>
-  <summary>stats</summary>
 
-![](https://komarev.com/ghpvc/?username=dev-caspertheghost&label=PROFILE+VIEWS)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code5linger)](https://github.com/Code5linger/github-readme-stats)
+
+<details>
+  <summary>Some Cool Stats🧾</summary>
 
 ![](https://komarev.com/ghpvc/?username=Code5linger&label=PROFILE+VIEWS&color=grey&style=flat-square)
 
