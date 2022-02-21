@@ -25,7 +25,7 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
 
 [![wakatime](https://wakatime.com/badge/user/3154546a-fb8d-4b9a-b21a-11b49996180b.svg)](https://wakatime.com/@3154546a-fb8d-4b9a-b21a-11b49996180b)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code5linger&count_private=true&show_icons=true)](https://github.com/Code5linger/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code5linger&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/Code5linger/github-readme-stats)
 
 <details>
   <summary>Some Cool Stats🧾</summary>
