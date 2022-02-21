@@ -27,6 +27,9 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code5linger&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/Code5linger/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code5linger&repo=github-readme-stats)](https://github.com/Code5linger/github-readme-stats)
+
+
 <details>
   <summary>Some Cool Stats🧾</summary>
 
