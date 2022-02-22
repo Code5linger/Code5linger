@@ -1,4 +1,5 @@
 ## Hello! 👋 I'm Sakib
+
 ## I'm a Brother, Son, Developer, and Gamer!!
 
 - 💻 I'm a frontend focused web developer (going for Fullstack :D)
@@ -20,13 +21,15 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
 
 [![wakatime](https://wakatime.com/badge/user/3154546a-fb8d-4b9a-b21a-11b49996180b.svg)](https://wakatime.com/@3154546a-fb8d-4b9a-b21a-11b49996180b)
 
-[![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code5linger&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/Code5linger/github-readme-stats)
-
 <details>
   <summary>Some Cool Stats 🔻</summary>
-## 
-![](https://komarev.com/ghpvc/?username=Code5linger&label=PROFILE+VIEWS&color=grey&style=flat-square)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code5linger&count_private=true&show_icons=true&theme=codeSTACKr&layout=compact)](https://github.com/Code5linger/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Code5linger)](https://git.io/streak-stats)
+
+[![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code5linger&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/Code5linger/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Code5linger&label=PROFILE+VIEWS&color=grey&style=flat-square)
 
  </details>
