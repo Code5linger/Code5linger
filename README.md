@@ -65,6 +65,8 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Code5linger&count_private=true&show_icons=true&theme=codeSTACKr" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Code5linger)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Code5linger&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&style=flat-square)](https://github.com/Code5linger/Code5linger)<br />
 ![](https://komarev.com/ghpvc/?username=Code5linger&label=PROFILE+VIEWS&color=grey&style=flat-square)
 </details>
