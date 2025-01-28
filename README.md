@@ -5,7 +5,7 @@
 - 💻 I'm a frontend focused web developer (going for Fullstack :D)
 - ⚡️Fast learner
 - 🌱 I’m currently learning react and looking to collaborate with interesting projects and businesses
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I once bought a guitar, played it one time, never touched it again 😅
 
 <details align="center">
