@@ -57,6 +57,9 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
 
 
 
+## GitHub Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Code5linger&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
   
 <a href="https://github.com/Code5linger/Code5linger">
