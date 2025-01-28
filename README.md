@@ -51,24 +51,3 @@
 _This is not a full list of my skills. I'm also open to learn more frontend skills!_
 
 [![wakatime](https://wakatime.com/badge/user/3154546a-fb8d-4b9a-b21a-11b49996180b.svg)](https://wakatime.com/@3154546a-fb8d-4b9a-b21a-11b49996180b)
-
-<details align="center">
-  <summary>Some Cool Statistics🔻</summary>
-
-
-
-## GitHub Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Code5linger&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-  
-<a href="https://github.com/Code5linger/Code5linger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code5linger&count_private=true&show_icons=true&theme=codeSTACKr&langs_count=3" />
-</a><a href="https://github.com/Code5linger/Code5linger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Code5linger&count_private=true&show_icons=true&theme=codeSTACKr" />
-</a>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
-
-![](https://komarev.com/ghpvc/?username=Code5linger&label=PROFILE+VIEWS&color=grey&style=flat-square)
-</details>
